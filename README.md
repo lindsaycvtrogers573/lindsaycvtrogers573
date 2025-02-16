@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm lindsaycvtrogers573
 
-<!--
-**lindsaycvtrogers573/lindsaycvtrogers573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥁 🎷 🏒 🏒 Obsessed with back-end development 🥁 🎷 🏒 🏒
 
-Here are some ideas to get you started:
+## About Me
+🎽 🎱 🌈 Looking to collaborate on back-end development 🎽 🎱 🌈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚴 🎯 Building the future with front-end development 🚴 🎯
+
+### Fun Facts
+🎮 🚵 🎬 A fan of databases 🎮 🚵 🎬
+
+---
+🚴 🎮 🎬 🎾 🎳 Thanks for visiting my profile! 🚣 🎰 🛶 🌈 🎷
